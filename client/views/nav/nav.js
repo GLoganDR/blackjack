@@ -1,7 +1,7 @@
 (function(){
   'use strict';
 
-  angular.module('hapi-auth')
+  angular.module('hackjack')
     .controller('NavCtrl', ['$scope', '$state', 'User', function($scope, $state, User){
       $scope.$on('username', function(e, username){
         $scope.username = username;

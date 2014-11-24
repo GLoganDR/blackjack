@@ -1,19 +1,19 @@
 {
-  "name": "hapi-technologies",
+  "name": "hackjack",
   "version": "1.0.0",
-  "description": "Hapi Technologies",
+  "description": "socket blackjack",
   "engines": {
     "node": "0.10.x"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/nss-cohort-2014-06-07/hapi-technologies"
+    "url": "https://github.com/GLoganDR/blackjack"
   },
   "scripts": {
     "start": "node server/index.js",
     "postinstall": "grunt deploy"
   },
-  "author": "Chyld Medford <chyld.medford@gmail.com>",
+  "author": "Logan Richardson <g.logan.richardson@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "bcrypt": "^0.8.0",

@@ -1,7 +1,7 @@
 (function(){
   'use strict';
 
-  angular.module('hapi-auth', ['ui.router', 'LocalForageModule'])
+  angular.module('hackjack', ['ui.router', 'LocalForageModule'])
     .config(['$stateProvider', '$urlRouterProvider', '$localForageProvider', function($stateProvider, $urlRouterProvider, $localForageProvider){
       $urlRouterProvider.otherwise('/');
 

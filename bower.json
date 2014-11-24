@@ -1,8 +1,8 @@
 {
-  "name": "hapi-auth",
+  "name": "hackjack",
   "version": "0.0.0",
   "authors": [
-    "Chyld Medford <chyld.medford@gmail.com>"
+    "Logan Richardson <g.logan.richardson@gmail.com>"
   ],
   "main": "client/index.js",
   "license": "MIT",
